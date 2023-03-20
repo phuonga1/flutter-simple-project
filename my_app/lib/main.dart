@@ -43,15 +43,6 @@ class _HomePage extends State<HomePage> {
                   textAlign: TextAlign.center,
                 ),
               ),
-              // ListTile(
-              //   title: const Text('Page 2'),
-              //   onTap: () {
-              //     Navigator.push(
-              //         context,
-              //         MaterialPageRoute(
-              //             builder: (context) => const SecondRoute()));
-              //   },
-              // ),
               ListTile(
                 title: const Text('Logout'),
                 onTap: () {
